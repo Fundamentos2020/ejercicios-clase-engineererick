@@ -1,0 +1,32 @@
+p {
+    color: crimson;
+}
+
+h1 {
+    text-align: center;
+}
+
+#parrafo2 {
+    background-color: darkmagenta;
+}
+
+.primero {
+    background-color: darkorange;
+}
+
+input:focus {
+    background-color: green;
+}
+
+button:hover {
+    background-color: hotpink;
+}
+
+p::first-letter{
+    font-size: 30px;
+}
+
+p::selection {
+    background-color: yellow;
+    color: black;
+}
